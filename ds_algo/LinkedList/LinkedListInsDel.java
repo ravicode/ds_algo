@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedListImpl;
 
 import javax.swing.JOptionPane;
 
